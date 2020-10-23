@@ -45,7 +45,7 @@
 "gameBoardCards":[],
 "gameBoardUrls":[],
 "gamePlayDeckName":null,
-"gameStartHandCount":0,
+"gameStartHandCount":7,
 "gameStartPointsCount":0,
 "playMatImageFileType":"png",
 "playMatImageUrl":null,
@@ -57,6 +57,5 @@
 "setCodeIdentifier":"code",
 "setDataIdentifier":"",
 "setNameDefault":"_CGSDEFAULT_",
-"setNameIdentifier":"name",
-"gameStartHandCount": 7
+"setNameIdentifier":"name"
 }
